@@ -97,8 +97,7 @@
             this.helpToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Padding = new System.Windows.Forms.Padding(8, 2, 0, 2);
-            this.menuStrip1.Size = new System.Drawing.Size(1473, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(1105, 24);
             this.menuStrip1.TabIndex = 19;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -235,7 +234,7 @@
             this.asFileToolStripMenuItem,
             this.toClipboardToolStripMenuItem});
             this.exportToolStripMenuItem.Name = "exportToolStripMenuItem";
-            this.exportToolStripMenuItem.Size = new System.Drawing.Size(52, 20);
+            this.exportToolStripMenuItem.Size = new System.Drawing.Size(53, 20);
             this.exportToolStripMenuItem.Text = "Export";
             // 
             // asFileToolStripMenuItem
@@ -247,7 +246,7 @@
             this.iMAGEToolStripMenuItem1});
             this.asFileToolStripMenuItem.Image = global::TARLABS.VBScriptFormatter.Properties.Resources.file;
             this.asFileToolStripMenuItem.Name = "asFileToolStripMenuItem";
-            this.asFileToolStripMenuItem.Size = new System.Drawing.Size(143, 22);
+            this.asFileToolStripMenuItem.Size = new System.Drawing.Size(141, 22);
             this.asFileToolStripMenuItem.Text = "To &File...";
             // 
             // hTMLToolStripMenuItem1
@@ -256,7 +255,7 @@
             this.hTMLToolStripMenuItem1.Name = "hTMLToolStripMenuItem1";
             this.hTMLToolStripMenuItem1.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
             | System.Windows.Forms.Keys.H)));
-            this.hTMLToolStripMenuItem1.Size = new System.Drawing.Size(182, 22);
+            this.hTMLToolStripMenuItem1.Size = new System.Drawing.Size(181, 22);
             this.hTMLToolStripMenuItem1.Text = "HTML";
             this.hTMLToolStripMenuItem1.Click += new System.EventHandler(this.hTMLToolStripMenuItem1_Click);
             // 
@@ -266,7 +265,7 @@
             this.rTFToolStripMenuItem1.Name = "rTFToolStripMenuItem1";
             this.rTFToolStripMenuItem1.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
             | System.Windows.Forms.Keys.R)));
-            this.rTFToolStripMenuItem1.Size = new System.Drawing.Size(182, 22);
+            this.rTFToolStripMenuItem1.Size = new System.Drawing.Size(181, 22);
             this.rTFToolStripMenuItem1.Text = "RTF";
             this.rTFToolStripMenuItem1.Click += new System.EventHandler(this.rTFToolStripMenuItem1_Click);
             // 
@@ -276,7 +275,7 @@
             this.tEXTToolStripMenuItem1.Name = "tEXTToolStripMenuItem1";
             this.tEXTToolStripMenuItem1.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
             | System.Windows.Forms.Keys.T)));
-            this.tEXTToolStripMenuItem1.Size = new System.Drawing.Size(182, 22);
+            this.tEXTToolStripMenuItem1.Size = new System.Drawing.Size(181, 22);
             this.tEXTToolStripMenuItem1.Text = "TEXT";
             this.tEXTToolStripMenuItem1.Click += new System.EventHandler(this.tEXTToolStripMenuItem1_Click);
             // 
@@ -286,7 +285,7 @@
             this.iMAGEToolStripMenuItem1.Name = "iMAGEToolStripMenuItem1";
             this.iMAGEToolStripMenuItem1.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
             | System.Windows.Forms.Keys.I)));
-            this.iMAGEToolStripMenuItem1.Size = new System.Drawing.Size(182, 22);
+            this.iMAGEToolStripMenuItem1.Size = new System.Drawing.Size(181, 22);
             this.iMAGEToolStripMenuItem1.Text = "IMAGE";
             this.iMAGEToolStripMenuItem1.Click += new System.EventHandler(this.iMAGEToolStripMenuItem1_Click);
             // 
@@ -299,7 +298,7 @@
             this.iMAGEToolStripMenuItem});
             this.toClipboardToolStripMenuItem.Image = global::TARLABS.VBScriptFormatter.Properties.Resources.clipboard;
             this.toClipboardToolStripMenuItem.Name = "toClipboardToolStripMenuItem";
-            this.toClipboardToolStripMenuItem.Size = new System.Drawing.Size(143, 22);
+            this.toClipboardToolStripMenuItem.Size = new System.Drawing.Size(141, 22);
             this.toClipboardToolStripMenuItem.Text = "To Clipboard";
             // 
             // hTMLToolStripMenuItem
@@ -308,7 +307,7 @@
             this.hTMLToolStripMenuItem.Name = "hTMLToolStripMenuItem";
             this.hTMLToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Alt) 
             | System.Windows.Forms.Keys.H)));
-            this.hTMLToolStripMenuItem.Size = new System.Drawing.Size(173, 22);
+            this.hTMLToolStripMenuItem.Size = new System.Drawing.Size(172, 22);
             this.hTMLToolStripMenuItem.Text = "HTML";
             this.hTMLToolStripMenuItem.Click += new System.EventHandler(this.hTMLToolStripMenuItem_Click);
             // 
@@ -318,7 +317,7 @@
             this.rTFToolStripMenuItem.Name = "rTFToolStripMenuItem";
             this.rTFToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Alt) 
             | System.Windows.Forms.Keys.R)));
-            this.rTFToolStripMenuItem.Size = new System.Drawing.Size(173, 22);
+            this.rTFToolStripMenuItem.Size = new System.Drawing.Size(172, 22);
             this.rTFToolStripMenuItem.Text = "RTF";
             this.rTFToolStripMenuItem.Click += new System.EventHandler(this.rTFToolStripMenuItem_Click);
             // 
@@ -328,7 +327,7 @@
             this.tEXTToolStripMenuItem.Name = "tEXTToolStripMenuItem";
             this.tEXTToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Alt) 
             | System.Windows.Forms.Keys.R)));
-            this.tEXTToolStripMenuItem.Size = new System.Drawing.Size(173, 22);
+            this.tEXTToolStripMenuItem.Size = new System.Drawing.Size(172, 22);
             this.tEXTToolStripMenuItem.Text = "TEXT";
             this.tEXTToolStripMenuItem.Click += new System.EventHandler(this.tEXTToolStripMenuItem_Click);
             // 
@@ -338,7 +337,7 @@
             this.iMAGEToolStripMenuItem.Name = "iMAGEToolStripMenuItem";
             this.iMAGEToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Alt) 
             | System.Windows.Forms.Keys.I)));
-            this.iMAGEToolStripMenuItem.Size = new System.Drawing.Size(173, 22);
+            this.iMAGEToolStripMenuItem.Size = new System.Drawing.Size(172, 22);
             this.iMAGEToolStripMenuItem.Text = "IMAGE";
             this.iMAGEToolStripMenuItem.Click += new System.EventHandler(this.iMAGEToolStripMenuItem_Click);
             // 
@@ -354,7 +353,7 @@
             // 
             this.visitWebsiteToolStripMenuItem.Name = "visitWebsiteToolStripMenuItem";
             this.visitWebsiteToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.T)));
-            this.visitWebsiteToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
+            this.visitWebsiteToolStripMenuItem.Size = new System.Drawing.Size(181, 22);
             this.visitWebsiteToolStripMenuItem.Text = "Visit Website";
             this.visitWebsiteToolStripMenuItem.Click += new System.EventHandler(this.visitWebsiteToolStripMenuItem_Click);
             // 
@@ -374,11 +373,9 @@
             this.groupBox1.Controls.Add(this.chkRemoveComments);
             this.groupBox1.Controls.Add(this.cmbIndetationCharacter);
             this.groupBox1.Controls.Add(this.label3);
-            this.groupBox1.Location = new System.Drawing.Point(1177, 36);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Location = new System.Drawing.Point(883, 29);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.groupBox1.Size = new System.Drawing.Size(281, 618);
+            this.groupBox1.Size = new System.Drawing.Size(211, 502);
             this.groupBox1.TabIndex = 20;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Options";
@@ -391,11 +388,9 @@
             this.groupBox2.Controls.Add(this.lblBlankLines);
             this.groupBox2.Controls.Add(this.lblComments);
             this.groupBox2.Controls.Add(this.lblFunctions);
-            this.groupBox2.Location = new System.Drawing.Point(20, 359);
-            this.groupBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox2.Location = new System.Drawing.Point(15, 292);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.groupBox2.Size = new System.Drawing.Size(237, 234);
+            this.groupBox2.Size = new System.Drawing.Size(178, 190);
             this.groupBox2.TabIndex = 33;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Stats";
@@ -403,60 +398,54 @@
             // lblConstants
             // 
             this.lblConstants.AutoSize = true;
-            this.lblConstants.Location = new System.Drawing.Point(8, 178);
-            this.lblConstants.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblConstants.Location = new System.Drawing.Point(6, 145);
             this.lblConstants.Name = "lblConstants";
-            this.lblConstants.Size = new System.Drawing.Size(67, 16);
+            this.lblConstants.Size = new System.Drawing.Size(54, 13);
             this.lblConstants.TabIndex = 29;
             this.lblConstants.Text = "Constants";
             // 
             // lblVariables
             // 
             this.lblVariables.AutoSize = true;
-            this.lblVariables.Location = new System.Drawing.Point(8, 146);
-            this.lblVariables.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblVariables.Location = new System.Drawing.Point(6, 119);
             this.lblVariables.Name = "lblVariables";
-            this.lblVariables.Size = new System.Drawing.Size(66, 16);
+            this.lblVariables.Size = new System.Drawing.Size(50, 13);
             this.lblVariables.TabIndex = 28;
             this.lblVariables.Text = "Variables";
             // 
             // lblClasses
             // 
             this.lblClasses.AutoSize = true;
-            this.lblClasses.Location = new System.Drawing.Point(8, 118);
-            this.lblClasses.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblClasses.Location = new System.Drawing.Point(6, 96);
             this.lblClasses.Name = "lblClasses";
-            this.lblClasses.Size = new System.Drawing.Size(57, 16);
+            this.lblClasses.Size = new System.Drawing.Size(43, 13);
             this.lblClasses.TabIndex = 27;
             this.lblClasses.Text = "Classes";
             // 
             // lblBlankLines
             // 
             this.lblBlankLines.AutoSize = true;
-            this.lblBlankLines.Location = new System.Drawing.Point(8, 89);
-            this.lblBlankLines.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblBlankLines.Location = new System.Drawing.Point(6, 72);
             this.lblBlankLines.Name = "lblBlankLines";
-            this.lblBlankLines.Size = new System.Drawing.Size(77, 16);
+            this.lblBlankLines.Size = new System.Drawing.Size(62, 13);
             this.lblBlankLines.TabIndex = 26;
             this.lblBlankLines.Text = "Blank Lines";
             // 
             // lblComments
             // 
             this.lblComments.AutoSize = true;
-            this.lblComments.Location = new System.Drawing.Point(8, 62);
-            this.lblComments.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblComments.Location = new System.Drawing.Point(6, 50);
             this.lblComments.Name = "lblComments";
-            this.lblComments.Size = new System.Drawing.Size(72, 16);
+            this.lblComments.Size = new System.Drawing.Size(56, 13);
             this.lblComments.TabIndex = 25;
             this.lblComments.Text = "Comments";
             // 
             // lblFunctions
             // 
             this.lblFunctions.AutoSize = true;
-            this.lblFunctions.Location = new System.Drawing.Point(8, 34);
-            this.lblFunctions.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblFunctions.Location = new System.Drawing.Point(6, 28);
             this.lblFunctions.Name = "lblFunctions";
-            this.lblFunctions.Size = new System.Drawing.Size(65, 16);
+            this.lblFunctions.Size = new System.Drawing.Size(53, 13);
             this.lblFunctions.TabIndex = 24;
             this.lblFunctions.Text = "Functions";
             // 
@@ -467,10 +456,9 @@
             this.chkShowLineNumbers.Checked = global::TARLABS.VBScriptFormatter.Properties.Settings.Default.ShowLineNumbers;
             this.chkShowLineNumbers.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chkShowLineNumbers.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::TARLABS.VBScriptFormatter.Properties.Settings.Default, "ShowLineNumbers", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
-            this.chkShowLineNumbers.Location = new System.Drawing.Point(20, 127);
-            this.chkShowLineNumbers.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.chkShowLineNumbers.Location = new System.Drawing.Point(15, 103);
             this.chkShowLineNumbers.Name = "chkShowLineNumbers";
-            this.chkShowLineNumbers.Size = new System.Drawing.Size(105, 20);
+            this.chkShowLineNumbers.Size = new System.Drawing.Size(91, 17);
             this.chkShowLineNumbers.TabIndex = 31;
             this.chkShowLineNumbers.Text = "Show Line #s";
             this.chkShowLineNumbers.UseVisualStyleBackColor = false;
@@ -479,22 +467,20 @@
             // lnkTARLABS
             // 
             this.lnkTARLABS.AutoSize = true;
-            this.lnkTARLABS.Location = new System.Drawing.Point(20, 326);
-            this.lnkTARLABS.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lnkTARLABS.Location = new System.Drawing.Point(15, 265);
             this.lnkTARLABS.Name = "lnkTARLABS";
-            this.lnkTARLABS.Size = new System.Drawing.Size(140, 16);
+            this.lnkTARLABS.Size = new System.Drawing.Size(115, 13);
             this.lnkTARLABS.TabIndex = 30;
             this.lnkTARLABS.TabStop = true;
-            this.lnkTARLABS.Text = "http://www.tarlabs.com";
+            this.lnkTARLABS.Text = "vbscript-code-formatter";
             this.lnkTARLABS.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lnkTARLABS_LinkClicked);
             // 
             // btnInstallUFTPlugin
             // 
             this.btnInstallUFTPlugin.BackColor = System.Drawing.SystemColors.Control;
-            this.btnInstallUFTPlugin.Location = new System.Drawing.Point(20, 231);
-            this.btnInstallUFTPlugin.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnInstallUFTPlugin.Location = new System.Drawing.Point(15, 188);
             this.btnInstallUFTPlugin.Name = "btnInstallUFTPlugin";
-            this.btnInstallUFTPlugin.Size = new System.Drawing.Size(237, 26);
+            this.btnInstallUFTPlugin.Size = new System.Drawing.Size(178, 21);
             this.btnInstallUFTPlugin.TabIndex = 29;
             this.btnInstallUFTPlugin.Text = "Install HP UFT Plugin";
             this.btnInstallUFTPlugin.UseVisualStyleBackColor = false;
@@ -504,10 +490,9 @@
             // 
             this.btnExit.BackColor = System.Drawing.SystemColors.Control;
             this.btnExit.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.btnExit.Location = new System.Drawing.Point(20, 270);
-            this.btnExit.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnExit.Location = new System.Drawing.Point(15, 219);
             this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(237, 26);
+            this.btnExit.Size = new System.Drawing.Size(178, 21);
             this.btnExit.TabIndex = 28;
             this.btnExit.Text = "E&xit";
             this.btnExit.UseVisualStyleBackColor = false;
@@ -518,10 +503,9 @@
             this.chkRemoveComments.AutoSize = true;
             this.chkRemoveComments.BackColor = System.Drawing.SystemColors.Control;
             this.chkRemoveComments.Checked = global::TARLABS.VBScriptFormatter.Properties.Settings.Default.RemoveComments;
-            this.chkRemoveComments.Location = new System.Drawing.Point(20, 94);
-            this.chkRemoveComments.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.chkRemoveComments.Location = new System.Drawing.Point(15, 76);
             this.chkRemoveComments.Name = "chkRemoveComments";
-            this.chkRemoveComments.Size = new System.Drawing.Size(146, 20);
+            this.chkRemoveComments.Size = new System.Drawing.Size(118, 17);
             this.chkRemoveComments.TabIndex = 27;
             this.chkRemoveComments.Text = "Remove Comments";
             this.chkRemoveComments.UseVisualStyleBackColor = false;
@@ -540,10 +524,9 @@
             "2 Spaces",
             "3 Spaces",
             "4 Spaces"});
-            this.cmbIndetationCharacter.Location = new System.Drawing.Point(20, 55);
-            this.cmbIndetationCharacter.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cmbIndetationCharacter.Location = new System.Drawing.Point(15, 45);
             this.cmbIndetationCharacter.Name = "cmbIndetationCharacter";
-            this.cmbIndetationCharacter.Size = new System.Drawing.Size(236, 24);
+            this.cmbIndetationCharacter.Size = new System.Drawing.Size(178, 21);
             this.cmbIndetationCharacter.TabIndex = 26;
             this.cmbIndetationCharacter.Text = global::TARLABS.VBScriptFormatter.Properties.Settings.Default.IdentationCharacter;
             this.cmbIndetationCharacter.SelectedIndexChanged += new System.EventHandler(this.cmbIndetationCharacter_SelectedIndexChanged);
@@ -552,10 +535,9 @@
             // 
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.SystemColors.Control;
-            this.label3.Location = new System.Drawing.Point(20, 27);
-            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Location = new System.Drawing.Point(15, 22);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(127, 16);
+            this.label3.Size = new System.Drawing.Size(103, 13);
             this.label3.TabIndex = 25;
             this.label3.Text = "Indetation Character";
             // 
@@ -573,12 +555,11 @@
             this.txtSourceCode.DisabledColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(180)))), ((int)(((byte)(180)))), ((int)(((byte)(180)))));
             this.txtSourceCode.Font = new System.Drawing.Font("Consolas", 10F);
             this.txtSourceCode.IsReplaceMode = false;
-            this.txtSourceCode.Location = new System.Drawing.Point(16, 33);
-            this.txtSourceCode.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtSourceCode.Location = new System.Drawing.Point(12, 27);
             this.txtSourceCode.Name = "txtSourceCode";
             this.txtSourceCode.Paddings = new System.Windows.Forms.Padding(0);
             this.txtSourceCode.SelectionColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(255)))));
-            this.txtSourceCode.Size = new System.Drawing.Size(1145, 621);
+            this.txtSourceCode.Size = new System.Drawing.Size(859, 505);
             this.txtSourceCode.TabIndex = 7;
             this.txtSourceCode.Text = resources.GetString("txtSourceCode.Text");
             this.txtSourceCode.Zoom = 100;
@@ -588,10 +569,9 @@
             // 
             this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.statusBarInfo});
-            this.statusStrip1.Location = new System.Drawing.Point(0, 673);
+            this.statusStrip1.Location = new System.Drawing.Point(0, 543);
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Padding = new System.Windows.Forms.Padding(1, 0, 19, 0);
-            this.statusStrip1.Size = new System.Drawing.Size(1473, 22);
+            this.statusStrip1.Size = new System.Drawing.Size(1105, 22);
             this.statusStrip1.TabIndex = 21;
             this.statusStrip1.Text = "statusStrip1";
             // 
@@ -604,17 +584,16 @@
             // 
             // frmMain
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.CancelButton = this.btnExit;
-            this.ClientSize = new System.Drawing.Size(1473, 695);
+            this.ClientSize = new System.Drawing.Size(1105, 565);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.txtSourceCode);
             this.Controls.Add(this.menuStrip1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "frmMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "VBScript Source Code Formatter - by http://www.tarlabs.com";

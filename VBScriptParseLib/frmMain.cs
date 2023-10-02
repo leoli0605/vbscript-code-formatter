@@ -51,7 +51,7 @@ namespace TARLABS.VBScriptFormatter
 
         private void LaunchWebSite()
         {
-            Process.Start("http://www.tarlabs.com/");
+            Process.Start("https://github.com/leoli0605/vbscript-code-formatter");
         }
 
 
