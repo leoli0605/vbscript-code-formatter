@@ -624,6 +624,8 @@ namespace TARLABS.VBScriptFormatter
                                         pkReader.Read(n);
                                         RecordToken(ParseTokenType.DO_LOOP_END_UNTIL, "Loop Until");
                                     }
+                                    else
+                                        goto default;
                                     break;
                                 case "for":
                                     nextWord = pkReader.PeekAfterWhiteSpace(ref n);
