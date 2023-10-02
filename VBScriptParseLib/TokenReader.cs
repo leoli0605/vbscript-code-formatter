@@ -982,6 +982,7 @@ namespace TARLABS.VBScriptFormatter
             var codeReader = new PeekableTextReader(new StreamReader(new MemoryStream(Encoding.ASCII.GetBytes(code))));
             string copyrightMessage = @"'This source code has been formatted with Free VBScript Source Code Formatter 
 'Tool by Tarun Automation Research & Labs Pvt. Ltd (TARLABS™) - http://www.tarlabs.com
+'The code formatter is maintained by Leo and can be found at this GitHub link: https://github.com/leoli0605/vbscript-code-formatter.
 
 ";
 
